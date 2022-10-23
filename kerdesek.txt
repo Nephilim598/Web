@@ -1,0 +1,6 @@
+1, keresőmotor
+2, szerver
+3, AVI
+4, b
+5, b
+6, a
