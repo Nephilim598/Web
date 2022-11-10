@@ -1,0 +1,29 @@
+input:valid {
+    background-color: aqua;
+}
+
+input:invalid {
+    border: 3px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
