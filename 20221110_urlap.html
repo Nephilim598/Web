@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Űrlap</title>
+</head>
+<body>
+    <form action="#" method="post">
+        <label for="inputnev">Felhasználó neve:</label>
+        <input type="text" id="inputnev" name="inputnev" required /><br>
+        <label for="szuletesidatum">születési dátum:</label>
+        <input type="date" id="szuletesidatum" name="szuletesidatum" required /><br>
+        <label for="emailaddress">e-mail:</label>
+        <input type="email" id="emailaddress" name="emailaddress" required /><br>
+        <label for="jelszo">jelszó:</label>
+        <input type="password" id="jelszo" name="jelszo" required /><br>
+        <label for="fajl">fajl:</label>
+        <input type="file" id="fajl" name="fajl" required /><br>
+        <label for="feltetelek">feltetelek:</label>
+        <input type="checkbox" id="feltetelek" name="feltetelek" required /><br>
+        <label for="szerencseszam">szerencseszam:</label>
+        <input type="number" id="szerencseszam" name="szerencseszam" value="10" min="5" max="15" /><br>
+
+        <input type="submit" id="feldolgozas" name="feldolgozas">
+        <input type="reset" id="reset" name="reset">
+    </form>
+</body>
+</html>
