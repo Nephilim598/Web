@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Űrlap</title>
+    <link rel="stylesheet" href="H_urlap.css">
+</head>
+<body>
+    <form action="#" method="post">
+        <select>
+            <option value="Doktor">Doktor</option>
+            <option value="Ifjabb">Ifjabb</option>
+            <option value="Idősebb">Idősebb</option>
+            <option value="Özvegy">Özvegy</option>
+        </select><br>
+
+        <label for="inputnev">név:</label>
+        <input type="text" id="inputnev" name="inputnev" max="50" required /><br>
+
+        <label for="jelszo">jelszó:</label>
+        <input type="password" id="jelszo" name="jelszo" min="6" required /><br>
+
+        <select>
+            <option value="No">Nő</option>
+            <option value="Ferfi">Férfi</option>
+        </select><br>
+
+        <label for="szuletesidatum">születési dátum:</label>
+        <input type="date" id="szuletesidatum" name="szuletesidatum" min="1900-01-01" /><br>
+
+        <label for="emailaddress">e-mail:</label>
+        <input type="email" id="emailaddress" name="emailaddress" required /><br>
+
+        <label for="hirlevel">hírlevelet kérek:</label>
+        <input type="checkbox" id="hirlevel" name="hirlevel" required /><br>
+
+        <textarea cols="40" rows="5" placeholder="egyéb közlendő" ></textarea><br>
+
+        <input type="submit" id="feldolgozas" name="feldolgozas">
+        <input type="reset" id="reset" name="reset">
+    </form>
+</body>
+</html>

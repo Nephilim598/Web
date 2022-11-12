@@ -1,0 +1,12 @@
+input {
+    border: 3px solid black;
+}
+
+input:invalid {
+    border: 3px solid red;
+    background-color: #FFCCCC ;
+}
+
+input:required {
+    background-color: #FFFFCC;
+}
