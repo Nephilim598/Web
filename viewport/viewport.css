@@ -1,0 +1,58 @@
+
+html, body {
+    font-size: 2vw;
+}
+
+.static {
+    font-size: 12px;
+}
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    body {
+        background-color: #FFFFCC;
+
+    }
+    #egyoszlopos {
+display: block;
+    }
+    #tobboszlopos {
+        display: none;
+    }
+    img {
+        display: none;
+    }
+ }
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    body {
+        background-color: aquamarine;
+    }
+    #egyoszlopos {
+        display: none;
+            }
+            #tobboszlopos {
+                display: block;
+            }
+        }
+
+/* Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    body {
+        background-color: coral;
+    }
+ }
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    body {
+        background-color: cornflowerblue;
+    }
+    #egyoszlopos {
+        display: none;
+            }
+            #tobboszlopos {
+                display: block;
+            }
+        
+ }

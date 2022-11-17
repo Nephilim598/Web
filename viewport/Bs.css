@@ -1,0 +1,27 @@
+html, body {
+    font-size: 2vh;
+}
+
+div {
+    border: 1px solid black;
+}
+
+
+#a1 {
+    background-color: aqua;
+}
+#a2 {
+    background-color: rgb(123, 0, 255);
+}
+#a3 {
+    background-color: green;
+}
+#a4 {
+    background-color: blue;
+}
+#a5 {
+    background-color: yellow;
+}
+#a6 {
+    background-color: red;
+}
