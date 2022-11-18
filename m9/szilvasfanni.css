@@ -1,0 +1,85 @@
+.row {
+    display: flex;
+    margin: 30px;
+
+}
+
+.row section {
+    padding: 7px;
+    flex: 1;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    max-width: 25em;
+}
+
+h2 {
+    visibility: hidden;
+    font-size: 0;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+    width: 160px;
+  }
+
+#gosome1 {
+    background-color: green;
+}
+
+#gosome2 {
+    background-color: green;
+}
+
+#gosome3 {
+    background-color: green;
+}
+
+#gosome4 {
+    background-color: green;
+}
+#gosome5 {
+    background-color: green;
+}
+
+#gosome6 {
+    background-color: green;
+}
+#gosome7 {
+    background-color: green;
+}
+
+#gosome8 {
+    background-color: green;
+}
+#gosome9 {
+    background-color: green;
+}
+
+#gosome10 {
+    background-color: green;
+}
+#gosome11 {
+    background-color: green;
+}
+
+#gosome1 {
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
