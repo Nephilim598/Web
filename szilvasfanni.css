@@ -1,0 +1,36 @@
+.row {
+    display: flex;
+    margin: 30px;
+
+}
+
+.row section {
+    padding: 7px;
+    flex: 1;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    max-width: 25em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+  }
+
+#gosome {
+    background-color: green;
+}
+
+
+
+
+
+
+
+
