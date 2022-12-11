@@ -1,0 +1,72 @@
+.navbar {
+    background-color: wheat;
+}
+
+.card-text {
+    color: rgb(6, 6, 129);
+    
+    text-align: center;
+}
+
+.card-header {
+    background-color: rgb(120, 196, 247);
+}
+
+.card-footer {
+    background-color: rgb(120, 196, 247);
+}
+
+h2 {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 110%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+    
+}
+
+footer {
+    background-color: cornsilk;
+}
+
+footer p {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+footer .row {
+    margin-left: 225px;
+}
+
+footer>table>thead>th>p{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+footer>table>thead>th{
+    text-align: center;
+}
+
+
+footer table {
+    background-color: cornsilk;
+    border-color: lightblue;
+    font-size: 70%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
