@@ -1,0 +1,193 @@
+
+
+
+#alsomodulok {
+    margin-left: 90px;
+    margin-right: 80px;
+    padding-bottom: 20px;
+    
+}
+
+.card-header {
+    background-color: orange;
+}
+
+#Kcon2 {
+    margin-left: 50px;
+    margin-right: 200px;
+}
+#kartyak2 {
+    display: flex;
+    margin: 30px;
+
+}
+
+#kartyak2 div {
+    padding: 7px;
+    flex: 1;
+    margin: 10px;
+    margin-right: 100px;
+}
+
+#kartyak {
+    display: flex;
+    margin: 30px;
+
+}
+
+#kartyak div {
+    padding: 7px;
+    flex: 1;
+    margin: 10px;
+    margin-right: 100px;
+    
+}
+#kartyak img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+  }
+
+#kiemeltkep {
+    width: 500px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 20px;
+    
+    
+}
+
+#kiemeltkepszoveggel {
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    
+}
+
+#Kcon {
+    margin-left: 50px;
+    margin-right: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+header {
+    background-color: orange;
+    height: 250px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+
+nav {
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-style: italic;
+}
+
+body {
+    background-image: url(images/hatter.png);
+}
+
+#Eh {
+    background-color: orange;
+    font-size: 30px;
+    margin-top: 20;
+    margin-bottom: 0px;
+}
+
+
+#kupon {
+    background-color: orange;
+    height: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+#kupon p {
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#Khead {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#Knum {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+table td {
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    height: 60px;
+    margin-left: 300px;
+    text-indent: 20px;
+    
+}
+
+table {
+    width: 1100px;
+    
+    margin-bottom: 30px;
+}
+
+
+#tablazat {
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
